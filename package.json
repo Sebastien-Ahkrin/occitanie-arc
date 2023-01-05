@@ -1,0 +1,19 @@
+{
+  "name": "occitanie-arc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastien-Ahkrin/occitanie-arc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastien-Ahkrin/occitanie-arc/issues"
+  },
+  "homepage": "https://github.com/Sebastien-Ahkrin/occitanie-arc#readme"
+}
